@@ -28,7 +28,7 @@ Whether I am researching future technologies, securing systems or supporting lea
 | Binary Exploits (Buffer Overflow)                | [Buffer Overflow Exploitation](#buffer-overflow-exploitation)                      |
 | Report Writing & Cyber Threat Analysis           | [Cyber Threats to UK Institutions](#cyber-threats-to-uk-institutions-report)       |
 | Developing python application                    | [Image Craft](#promanage-flask-app)                                                |
-| Game Development in Python                       | [Snake Maths](#promanage-flask-app)                                                |
+| Game Development in Python                       | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-)                                                |
 | OS Command Analysis                              | [Linux Process Lifecycle Analysis](#promanage-flask-app)                           |
 | OS Design                                        | [OS Proposition](#promanage-flask-app)                                             |
 
