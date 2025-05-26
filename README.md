@@ -24,7 +24,7 @@ Whether I am researching future technologies, securing systems or supporting lea
 | Skill                                             | Associated Project                                                                 |
 |--------------------------------------------------|------------------------------------------------------------------------------------|
 | Network  Configuration in Packet Tracer          | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design)   |
-|Website Development in python                     | [ProManage Flask App (2 be updated)(#promanage-flask-app)                          |
+|Website Development in python                     | [ProManage Flask App - 2 be updated](#promanage-flask-app)                          |
 | Binary Exploits (Buffer Overflow)                | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow)  |
 | Report Writing & Cyber Threat Analysis           | [Cyber Threats to UK Institutions](https://shorturl.at/zKta1)                      |
 | Developing python application                    | [Image Craft](https://github.com/saminyasirkhan/ImageCraft)                        |
