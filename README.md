@@ -23,14 +23,14 @@ Whether I am researching future technologies, securing systems or supporting lea
 
 | Skill                                             | Associated Project                                                                 |
 |--------------------------------------------------|------------------------------------------------------------------------------------|
-| Network  Configuration in Packet Tracer          | [Secure Network Design](#secure-network-design)                                    |
-|Website Development in python                     | [ProManage Flask App](#promanage-flask-app)                                        |
-| Binary Exploits (Buffer Overflow)                | [Buffer Overflow Exploitation](#buffer-overflow-exploitation)                      |
-| Report Writing & Cyber Threat Analysis           | [Cyber Threats to UK Institutions](#cyber-threats-to-uk-institutions-report)       |
-| Developing python application                    | [Image Craft](#promanage-flask-app)                                                |
-| Game Development in Python                       | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-)                                                |
-| OS Command Analysis                              | [Linux Process Lifecycle Analysis](#promanage-flask-app)                           |
-| OS Design                                        | [OS Proposition](#promanage-flask-app)                                             |
+| Network  Configuration in Packet Tracer          | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design)   |
+|Website Development in python                     | [ProManage Flask App (awaiting marks to come back](#promanage-flask-app)           |
+| Binary Exploits (Buffer Overflow)                | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow)  |
+| Report Writing & Cyber Threat Analysis           | [Cyber Threats to UK Institutions](https://shorturl.at/zKta1)                      |
+| Developing python application                    | [Image Craft](https://github.com/saminyasirkhan/ImageCraft)                        |
+| Game Development in Python                       | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-)                 |
+| OS Command Analysis                              | [Linux Process Lifecycle Analysis](https://shorturl.at/g6H4J)                      |
+| OS Design                                        | [OS Proposition](https://shorturl.at/EM2XN)                                        |
 
 
 ---
