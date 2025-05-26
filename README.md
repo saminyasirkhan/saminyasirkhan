@@ -19,6 +19,10 @@ Whether I am researching future technologies, securing systems or supporting lea
 📧 Feel free to reach out if you would like to connect or discuss new opportunities.
 
 
+#README
+If any project does not load or link not work, no stress as all of these projects can also be found in my linkedin page below the "project" section
+
+
 ## 🛠️ Skills
 
 | Skill                                             | Associated Project                                                                 |
@@ -30,7 +34,7 @@ Whether I am researching future technologies, securing systems or supporting lea
 | Developing python application                    | [Image Craft](https://github.com/saminyasirkhan/ImageCraft)                        |
 | Game Development in Python                       | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-)                 |
 | OS Command Analysis                              | [Linux Process Lifecycle Analysis](https://shorturl.at/g6H4J)                      |
-| OS Design                                        | [OS Proposition](https://shorturl.at/EM2XN)                                        |
+| OS Design                                        | [OS Proposition](https://rb.gy/eqguyk)                                             |
 
 
 ---
