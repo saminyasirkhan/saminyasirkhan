@@ -2,25 +2,21 @@
 <a href="www.linkedin.com/in/saminyasirkhan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
+I’m an IT and Cybersecurity student at Warwick University with a keen interest in SOC operations, secure infrastructure, and network defence. I actively build my skills through academic projects, hands-on labs, certifications, and research, focusing on emerging technologies and threat analysis.
 
-👨🏽‍💻
-I am an IT enthusiast and Cybersecurity student with a strong interest in SOC operations and network defence. I am currently developing my skills through academic projects, online certifications and research, with a particular focus on secure infrastructure and emerging technologies.
+🔐 Interests: Cybersecurity, Networking, SOC, IT Support, GRC
 
-💡 Key Interests: Cybersecurity, Networking, SOC, IT Support, GRC
-🧠 Current Focus: Threat analysis, network security, Microsoft, Linux, Python, help desk support
-🎯 Long Term Goal: SOC Analyst, Network Engineer, Cloud Engineer, GRC Specialist
+⚙️ Current Focus: Threat analysis, network security, Microsoft, Linux, Python, help desk operations
 
-👨🏽‍🏫
-Alongside my studies, I work as a Teaching Assistant, Cover Supervisor, Remote Exam Invigilator and 1:1 Tutor (including SEN support) for multiple London-based staffing agencies. These roles have strengthened my communication, adaptability and leadership, which are valuable in both educational and technical environments.
+🎯 Career Goals: SOC Analyst, Network Engineer, Cloud Engineer, GRC Specialist
 
-Whether I am researching future technologies, securing systems or supporting learners, I am driven by problem solving, curiosity and continuous development.
+Alongside my studies, I work as a Teaching Assistant, Cover Supervisor, Remote Exam Invigilator, and 1:1 Tutor (including SEN support) for various London-based agencies. These experiences have strengthened my leadership, adaptability, and communication—key qualities in both education and technical environments.
 
-🤝 Keen to engage with others in the tech and education space.
-📧 Feel free to reach out if you would like to connect or discuss new opportunities.
+Whether I’m exploring future tech, securing systems, or supporting learners, I’m driven by curiosity, continuous development, and real-world impact.
 
+🤝 I enjoy collaborating within tech and education spaces. Feel free to connect if you’d like to discuss projects, ideas, or opportunities.
 
-#README
-If any project does not load or link not work, no stress as all of these projects can also be found in my linkedin page below the "project" section
+🔗 Note: If a project link doesn't load, no worries—most are also available on my LinkedIn profile (linked below in the "project" section).
 
 
 ## 🛠️ Skills
