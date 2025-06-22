@@ -1,5 +1,5 @@
 # Hello, I'm Yasir
-<a href="www.linkedin.com/in/saminyasirkhan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saminyasirkhan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 I’m an IT and Cybersecurity student at Warwick University with a keen interest in SOC operations, secure infrastructure, and network defence. I actively build my skills through academic projects, hands-on labs, certifications, and research, focusing on emerging technologies and threat analysis.
