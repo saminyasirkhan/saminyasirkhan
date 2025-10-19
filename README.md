@@ -31,6 +31,7 @@ Whether I’m exploring future tech, securing systems, or supporting learners, I
 | Game Development in Python                       | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-)                 |
 | OS Command Analysis                              | [Linux Process Lifecycle Analysis](https://shorturl.at/g6H4J)                      |
 | OS Design                                        | [OS Proposition](https://rb.gy/eqguyk)                                             |
+| Iac Exploitation Challenge                       | [Iac Exploitation Challenge   ](https://github.com/saminyasirkhan/IaC-Challenge)                                             |
 
 
 
@@ -62,6 +63,9 @@ Designed a conceptual real-time operating system (RTOS) for autonomous drones fo
 
 ### 🧮 Linux Terminal Lifecycle Analysis  
 Analysed the execution of `cp -vi .bashrc bashrc.bak` to explore Linux process lifecycles. Used shell output to trace `fork()`, `exec()`, file permissions, context switching, and privilege boundaries between user and kernel space.
+
+### 🛠️ DevSecOps — TryHackMe “On-Prem IaC” Challenge  
+Completed the TryHackMe On-Prem IaC lab: analysed **Vagrant** + **Ansible** provisioning of a Dockerised **Flask + MySQL** app, tunnelled into the private network, exploited a command-injection to gain a reverse shell, recovered synced SSH keys, pivoted across the internal Docker/Vagrant network, and escalated privileges to capture flags. (Documentation: `IAC challenge.pdf`)  
 
 
 ---
