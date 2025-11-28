@@ -1,23 +1,24 @@
-Hello, I'm Yasir
+<h1 align="center">Hello, I'm Yasir 👋</h1>
 
-<a href="https://www.linkedin.com/in/saminyasirkhan/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saminyasirkhan/">
+  <img src="https://img.shields.io/badge/-LINKEDIN-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-Objective
+## Objective
 
 I am a second-year Cyber Security student at the University of Warwick. I am currently interning with Cyber PATH at the Cyber Resilience Centre for the West Midlands and Cyber London. I previously interned at WMG, University of Warwick, where I contributed to an impact case study for the REF, and at Parisi, where I worked on AI risk modelling and governance.
 
 I strengthen my skills through academic work, hands-on security projects, certifications, and labs, and I rank in the Top 2% on TryHackMe. My experience covers threat analysis, incident response, vulnerability assessments, secure configuration, network defence, and technical teaching.
 
-🔐 Interests: Cybersecurity, Networking, SOC, IT Support, GRC
-⚙️ Current Focus: Threat analysis, network security, Microsoft, Linux, Python, help desk operations
-🎯 Career Goals: SOC Analyst, Network Engineer, Cloud Engineer, GRC Specialist
+🔐 **Interests:** Cybersecurity, Networking, SOC, IT Support, GRC  
+⚙️ **Current Focus:** Threat analysis, network security, Microsoft, Linux, Python, help desk operations  
+🎯 **Career Goals:** SOC Analyst, Network Engineer, Cloud Engineer, GRC Specialist
 
 Alongside technical roles, I work as a Teaching Assistant, Cover Supervisor, Remote Exam Invigilator, and 1:1 Tutor. These positions have strengthened my communication, adaptability, and problem-solving while supporting learners at different stages.
 
 I am driven by curiosity, continuous learning, and real-world impact. I enjoy collaborating on security and education projects.
 
 🤝 Feel free to connect if you would like to discuss ideas or opportunities.
-
 
 ## 🛠️ Skills
 
