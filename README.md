@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Yasir 👋</h1>
 
-Check out my <a href="https://www.linkedin.com/in/saminyasirkhan/">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> !
+Check out my  
+<a href="https://www.linkedin.com/in/saminyasirkhan/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 ## Objective
 
