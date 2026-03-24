@@ -30,7 +30,8 @@ I have worked across research, consulting, and security environments, including 
 | Network Configuration (Cisco Packet Tracer, OSPF, VLANs, ACLs, ZPF) | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design) |
 | DevSecOps & IaC Exploitation (Vagrant, Ansible, Docker, SSH) | [IaC Exploitation Challenge](https://github.com/saminyasirkhan/IaC-Challenge) |
 | Binary Exploitation (Buffer Overflow, GDB) | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow) |
-| Secure Web Development (Flask, Authentication, RBAC) | [ProManage Flask App](https://github.com/saminyasirkhan/ProManage/blob/main/Front%26Backend.pdf) |
+| Secure System Design & Threat Modelling (STRIDE, RBAC, JWT, Secure Architecture) | [Secure Inventory Management System](https://github.com/saminyasirkhan/Secure-Inventory-Management-System) |
+| Secure Web Development (Flask, Authentication, RBAC) | [ProManage Flask App (Collaborative Project)](https://github.com/saminyasirkhan/ProManage) |
 | Database Security Engineering (PostgreSQL, RBAC, Constraints, ACID) | [CampusAccess & E-Commerce Database Systems](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
 | Threat Analysis & Incident Investigation | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures/blob/main/wm179%20-%205653630%20-%20Cyber_Threats_to_UK_Institutions__Case_Studies_and_Countermeasures%20(1).pdf) |
 | Risk Assessment & GRC (ISO 27005, DREAD) | [IIoT Risk Assessment](https://github.com/saminyasirkhan/IIoT-Risk-Assessment) |
