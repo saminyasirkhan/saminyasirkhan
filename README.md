@@ -11,7 +11,7 @@
 
 I am a Cyber Security student at the University of Warwick, building hands-on experience across threat analysis, secure systems, and network defence.
  
-I have worked across research, consulting, and security environments, including roles with Cyber PATH at the Cyber Resilience Centre, Cyber London,, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
+I have worked across research, consulting, and security environments, including roles with Cyber PATH at the Cyber Resilience Centre, Cyber London, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
  
 
 
@@ -34,7 +34,7 @@ I have worked across research, consulting, and security environments, including 
 | Database Security Engineering (PostgreSQL, RBAC, Constraints, ACID) | [CampusAccess & E-Commerce Database Systems](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
 | Threat Analysis & Incident Investigation | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures/blob/main/wm179%20-%205653630%20-%20Cyber_Threats_to_UK_Institutions__Case_Studies_and_Countermeasures%20(1).pdf) |
 | Risk Assessment & GRC (ISO 27005, DREAD) | IIoT Risk Assessment|
-| Human-Centred Security & Phishing Analysis | Behavioural Phishing Defence System |
+| Human-Centred Security & Phishing Analysis | [Behavioural Phishing Defence System](https://github.com/saminyasirkhan/Human-Centred-Cyber-Security) |
 | Python Application Development (Tkinter, PIL) | [ImageCraft](https://github.com/saminyasirkhan/ImageCraft) |
 | Game Development (Python, Pygame) | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-) |
 | Operating Systems & Process Analysis (Linux, fork/exec, memory) | [Linux Process Lifecycle Analysis](https://github.com/saminyasirkhan/Linux-OS-Command-Lifecycle-Case-Study) |
