@@ -38,36 +38,62 @@ I strengthen my skills through academic work, hands-on security projects, certif
 
 ---
 
+
 ## 📁 Projects
 
-### 💻 ProManage Flask App
-Collaborated on a project management system with login, registration, and task dashboards. Developed the front-end in Flask and implemented secure login logic with hashed passwords and role-based access.
+### 🔐 Security Engineering
 
-### 🧠 Buffer Overflow Exploitation
-Reverse engineered a C-based authentication program and used GDB, cyclic patterns, and return address control to bypass login and execute shellcode. Analysed stack canaries and ASLR protections.
+#### 🛠️ DevSecOps — IaC Exploitation (TryHackMe)
+Analysed a vulnerable Vagrant + Ansible IaC pipeline deploying a Dockerised Flask + MySQL application. Exploited a command injection vulnerability to gain a reverse shell, pivoted across the internal network using SSH tunnelling, recovered exposed SSH keys, and performed privilege escalation to compromise the environment.
 
-### 🌐 Secure Network Design
-Configured a corporate network using Cisco Packet Tracer with OSPF, VLANs, ACLs, and a Zone-Based Policy Firewall. Implemented role-restricted SSH and DMZ segmentation to simulate enterprise-grade defence.
+#### 🧠 Buffer Overflow Exploitation
+Reverse engineered a vulnerable C authentication program using GDB. Generated cyclic patterns to identify offsets, gained control of the instruction pointer, and executed shellcode. Evaluated mitigations including ASLR and stack canaries.
 
-### 📊 Cyber Threats to UK Institutions Report
-Analysed case studies involving ransomware, phishing, and other cyber threats against UK public sector. Proposed mitigation strategies using MFA, network segmentation, and user awareness campaigns.
-
-### 🖼️ ImageCraft (Python Image Editor)  
-Built a GUI image editor using Tkinter and PIL with secure PIN login, grayscale/blur filters, and file validation. Designed modular architecture with built-in error handling and secure file operations.
-
-### 🐍 Snake Maths Game (Pygame + Tkinter)  
-Developed a real-time arithmetic game for KS2 learners inspired by the classic Snake game. Included category-based question generation, dynamic difficulty scaling, user login, and leaderboard tracking.
-
-### 🛫 OS Proposition (RTOS for Drones)  
-Designed a conceptual real-time operating system (RTOS) for autonomous drones focusing on memory isolation, scheduling algorithms, and embedded safety mechanisms using priority queues and interrupt handling.
-
-### 🧮 Linux Terminal Lifecycle Analysis  
-Analysed the execution of `cp -vi .bashrc bashrc.bak` to explore Linux process lifecycles. Used shell output to trace `fork()`, `exec()`, file permissions, context switching, and privilege boundaries between user and kernel space.
-
-### 🛠️ DevSecOps — TryHackMe “On-Prem IaC” Challenge  
-Completed the TryHackMe On-Prem IaC lab: analysed **Vagrant** + **Ansible** provisioning of a Dockerised **Flask + MySQL** app, tunnelled into the private network, exploited a command-injection to gain a reverse shell, recovered synced SSH keys, pivoted across the internal Docker/Vagrant network, and escalated privileges to capture flags. (Documentation: `IAC challenge.pdf`)  
+#### 💻 Secure IMS System (Full-Stack Security Design)
+Designed and implemented a secure multi-tier system with authentication, RBAC, input validation, and session management. Applied STRIDE threat modelling, rate limiting, and secure coding practices to mitigate common web vulnerabilities.
 
 
----
 
+### 🌐 Network & Systems Design
+
+#### 🌐 Secure Network Design (TechZolutions)
+Designed and configured an enterprise network using OSPF, VLANs, ACLs, and Zone-Based Firewall (ZPF). Implemented network segmentation, DMZ architecture, and SSH access control, and analysed traffic flows to identify and mitigate vulnerabilities.
+
+#### 🗄️ CampusAccess Database Security Redesign
+Audited an insecure database system and redesigned it using normalisation, constraints, triggers, and RBAC. Implemented secure schema design in PostgreSQL with audit logging and input validation, supported by a DREAD risk assessment.
+
+#### 🛒 Secure E-Commerce Database System
+Designed a production-style relational database with ACID compliance, 3NF normalisation, and role-based access control. Configured secure database access (`pg_hba.conf`, SSL/TLS) and implemented transaction-safe order processing.
+
+
+
+### 🧠 Risk, Behaviour & Security Analysis
+
+#### 🏭 IIoT Risk Assessment (ISO 27005)
+Conducted a full risk assessment on an industrial IoT environment using ISO 27005. Identified assets, threats, and vulnerabilities, and developed a structured risk register with mitigation strategies.
+
+#### 🧠 Behavioural Phishing Defence System
+Analysed phishing susceptibility using cognitive bias and behavioural models. Designed a risk-based, nudge-driven warning system to influence secure user decision-making in email environments.
+
+#### 📊 Cyber Threats to UK Institutions
+Analysed real-world ransomware and phishing attacks (e.g. Rhysida) using the Cyber Kill Chain. Proposed mitigations including MFA, monitoring, and user awareness training.
+
+
+
+### 🧩 Software & Supporting Projects
+
+#### 💻 ProManage Flask App
+Developed a project management web app with authentication, dashboards, and task tracking. Implemented secure login (hashed passwords + RBAC) and input validation.
+
+#### 🖼️ ImageCraft (Python Image Editor)
+Built a GUI application using Tkinter + PIL with secure PIN login, image filters, and file validation. Designed with modular architecture and error handling.
+
+#### 🐍 Snake Maths Game (Pygame + Tkinter)
+Developed an educational game with dynamic difficulty scaling, user authentication, and leaderboard tracking, focusing on interactive user experience.
+
+#### 🛫 OS Proposition (RTOS for Drones)
+Designed a conceptual real-time operating system focusing on process scheduling, memory isolation, and safety-critical system behaviour.
+
+#### 🧮 Linux Process Lifecycle Analysis
+Analysed execution of a Linux command to explore process creation (`fork`), execution (`exec`), memory management, and file permissions, highlighting OS-level security mechanisms.
 
