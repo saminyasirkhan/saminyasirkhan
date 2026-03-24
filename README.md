@@ -31,7 +31,7 @@ I have worked across research, consulting, and security environments, including 
 | DevSecOps & IaC Exploitation (Vagrant, Ansible, Docker, SSH) | [IaC Exploitation Challenge](https://github.com/saminyasirkhan/IaC-Challenge) |
 | Binary Exploitation (Buffer Overflow, GDB) | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow) |
 | Secure Web Development (Flask, Authentication, RBAC) | [ProManage Flask App](https://github.com/saminyasirkhan/ProManage/blob/main/Front%26Backend.pdf) |
-| Database Design & Security (PostgreSQL, RBAC, Constraints, ACID) | CampusAccess & E-Commerce Database Systems |
+| Database Security Engineering (PostgreSQL, RBAC, Constraints, ACID) | [CampusAccess & E-Commerce Database Systems](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
 | Threat Analysis & Incident Investigation | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures/blob/main/wm179%20-%205653630%20-%20Cyber_Threats_to_UK_Institutions__Case_Studies_and_Countermeasures%20(1).pdf) |
 | Risk Assessment & GRC (ISO 27005, DREAD) | IIoT Risk Assessment & Database Redesign |
 | Human-Centred Security & Phishing Analysis | Behavioural Phishing Defence System |
