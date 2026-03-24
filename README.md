@@ -9,9 +9,11 @@
 
 ## Objective
 
-I am a second-year Cyber Security student at the University of Warwick. I am currently interning with the National Cyber Resilience Centre Group (NCRCG) and Cyber London. Previously, I interned at WMG, University of Warwick, where I contributed to an impact case study for the REF 2029 submission, and at Parisi Consulting, where I worked on AI risk modelling and governance as a Tech Consultant.
+I am a Cyber Security student at the University of Warwick, building hands-on experience across threat analysis, secure systems, and network defence.
+ 
+I have worked across research, consulting, and security environments, including roles with Cyber PATH at the Cyber Resilience Centre, Cyber London,, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
+ 
 
-I strengthen my skills through academic work, hands-on security projects, certifications, and labs, and I rank in the Top 2% on TryHackMe. My experience covers threat analysis, incident response, vulnerability assessments, secure configuration, network defence, and technical teaching.
 
 🔐 **Interests:** Cybersecurity, Networking, SOC, IT Support, GRC  
 ⚙️ **Current Focus:** Threat analysis, network security, Microsoft, Linux, Python, help desk operations  
@@ -32,6 +34,24 @@ I strengthen my skills through academic work, hands-on security projects, certif
 | OS Command Analysis                              | [Linux Process Lifecycle Analysis](https://shorturl.at/g6H4J)                      |
 | OS Design                                        | [OS Proposition](https://rb.gy/eqguyk)                                             |
 | Iac Exploitation Challenge                       | [Iac Exploitation Challenge   ](https://github.com/saminyasirkhan/IaC-Challenge)                                             |
+
+
+## 🛠️ Skills
+
+| Skill | Demonstrated In |
+|---|---|
+| Network Configuration (Cisco Packet Tracer, OSPF, VLANs, ACLs, ZPF) | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design) |
+| DevSecOps & IaC Exploitation (Vagrant, Ansible, Docker, SSH) | [IaC Exploitation Challenge](https://github.com/saminyasirkhan/IaC-Challenge) |
+| Binary Exploitation (Buffer Overflow, GDB) | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow) |
+| Secure Web Development (Flask, Authentication, RBAC) | [ProManage Flask App](https://github.com/saminyasirkhan/ProManage/blob/main/Front%26Backend.pdf) |
+| Database Design & Security (PostgreSQL, RBAC, Constraints, ACID) | CampusAccess & E-Commerce Database Systems |
+| Threat Analysis & Incident Investigation | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures/blob/main/wm179%20-%205653630%20-%20Cyber_Threats_to_UK_Institutions__Case_Studies_and_Countermeasures%20(1).pdf) |
+| Risk Assessment & GRC (ISO 27005, DREAD) | IIoT Risk Assessment & Database Redesign |
+| Human-Centred Security & Phishing Analysis | Behavioural Phishing Defence System |
+| Python Application Development (Tkinter, PIL) | [ImageCraft](https://github.com/saminyasirkhan/ImageCraft) |
+| Game Development (Python, Pygame) | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-) |
+| Operating Systems & Process Analysis (Linux, fork/exec, memory) | Linux Process Lifecycle Analysis |
+| Operating System Design (RTOS Concepts) | OS Proposition |
 
 
 
