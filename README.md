@@ -64,14 +64,25 @@ Designed and implemented a secure multi-tier system with authentication, RBAC, i
 
 ### 🌐 Network & Systems Design
 
-#### 🌐 Secure Network Design (TechZolutions)
-Designed and configured an enterprise network using OSPF, VLANs, ACLs, and Zone-Based Firewall (ZPF). Implemented network segmentation, DMZ architecture, and SSH access control, and analysed traffic flows to identify and mitigate vulnerabilities.
+#### 🌐 [Secure Network Design (TechZolutions)](https://github.com/saminyasirkhan/Secure-Network-Design)
+Designed and configured an enterprise network using OSPF, VLANs, ACLs, and a Zone-Based Policy Firewall (ZPF). Implemented network segmentation, DMZ architecture, and role-restricted SSH access. Analysed traffic flows to identify vulnerabilities and improve network security posture.
 
-#### 🗄️ CampusAccess Database Security Redesign
+#### 🗄️ [CampusAccess Database Security Redesign](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems)
 Audited an insecure database system and redesigned it using normalisation, constraints, triggers, and RBAC. Implemented secure schema design in PostgreSQL with audit logging and input validation, supported by a DREAD risk assessment.
 
-#### 🛒 Secure E-Commerce Database System
+#### 🛒 [Secure E-Commerce Database System](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems)
 Designed a production-style relational database with ACID compliance, 3NF normalisation, and role-based access control. Configured secure database access (`pg_hba.conf`, SSL/TLS) and implemented transaction-safe order processing.
+
+---
+
+### 🛠️ Skills Demonstrated
+
+| Skill | Project |
+|---|---|
+| Network Configuration (OSPF, VLANs, ACLs, ZPF, DMZ) | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design) |
+| Database Security Engineering (PostgreSQL, RBAC, Constraints, ACID) | [CampusAccess & E-Commerce Systems](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
+| Secure System Design & Threat Modelling (STRIDE, RBAC) | [Secure Inventory Management System](https://github.com/saminyasirkhan/Secure-Inventory-Management-System) |
+| Secure Web Development (Flask, Authentication, RBAC) | [ProManage Flask App (Collaborative Project)](https://github.com/saminyasirkhan/ProManage) |
 
 
 
