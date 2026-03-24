@@ -37,7 +37,7 @@ I have worked across research, consulting, and security environments, including 
 | Human-Centred Security & Phishing Analysis | Behavioural Phishing Defence System |
 | Python Application Development (Tkinter, PIL) | [ImageCraft](https://github.com/saminyasirkhan/ImageCraft) |
 | Game Development (Python, Pygame) | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-) |
-| Operating Systems & Process Analysis (Linux, fork/exec, memory) | Linux Process Lifecycle Analysis |
+| Operating Systems & Process Analysis (Linux, fork/exec, memory) | [Linux Process Lifecycle Analysis](https://github.com/saminyasirkhan/Linux-OS-Command-Lifecycle-Case-Study) |
 | Operating System Design (RTOS Concepts) | OS Proposition |
 
 
