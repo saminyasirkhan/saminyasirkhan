@@ -21,19 +21,6 @@ I have worked across research, consulting, and security environments, including 
 
 🤝 Feel free to connect if you would like to discuss ideas or opportunities.
 
-## 🛠️ Skills
-
-| Skill                                             | Associated Project                                                                |
-|--------------------------------------------------|------------------------------------------------------------------------------------|
-| Network  Configuration in Packet Tracer          | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design)   |
-|Website Development in python                     | [ProManage Flask App](https://github.com/saminyasirkhan/ProManage/blob/main/Front%26Backend.pdf)                         |
-| Binary Exploits (Buffer Overflow)                | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow)  |
-| Report Writing & Cyber Threat Analysis           | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures/blob/main/wm179%20-%205653630%20-%20Cyber_Threats_to_UK_Institutions__Case_Studies_and_Countermeasures%20(1).pdf)                      |
-| Developing python application                    | [Image Craft](https://github.com/saminyasirkhan/ImageCraft)                        |
-| Game Development in Python                       | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-)                 |
-| OS Command Analysis                              | [Linux Process Lifecycle Analysis](https://shorturl.at/g6H4J)                      |
-| OS Design                                        | [OS Proposition](https://rb.gy/eqguyk)                                             |
-| Iac Exploitation Challenge                       | [Iac Exploitation Challenge   ](https://github.com/saminyasirkhan/IaC-Challenge)                                             |
 
 
 ## 🛠️ Skills
