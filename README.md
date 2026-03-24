@@ -33,12 +33,12 @@ I have worked across research, consulting, and security environments, including 
 | Secure Web Development (Flask, Authentication, RBAC) | [ProManage Flask App](https://github.com/saminyasirkhan/ProManage/blob/main/Front%26Backend.pdf) |
 | Database Security Engineering (PostgreSQL, RBAC, Constraints, ACID) | [CampusAccess & E-Commerce Database Systems](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
 | Threat Analysis & Incident Investigation | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures/blob/main/wm179%20-%205653630%20-%20Cyber_Threats_to_UK_Institutions__Case_Studies_and_Countermeasures%20(1).pdf) |
-| Risk Assessment & GRC (ISO 27005, DREAD) | IIoT Risk Assessment & Database Redesign |
+| Risk Assessment & GRC (ISO 27005, DREAD) | IIoT Risk Assessment|
 | Human-Centred Security & Phishing Analysis | Behavioural Phishing Defence System |
 | Python Application Development (Tkinter, PIL) | [ImageCraft](https://github.com/saminyasirkhan/ImageCraft) |
 | Game Development (Python, Pygame) | [Snake Maths](https://github.com/saminyasirkhan/Snake-Maths-Game-) |
 | Operating Systems & Process Analysis (Linux, fork/exec, memory) | [Linux Process Lifecycle Analysis](https://github.com/saminyasirkhan/Linux-OS-Command-Lifecycle-Case-Study) |
-| Operating System Design (RTOS Concepts) | OS Proposition |
+| Operating System Design (RTOS Concepts) | [OS Proposition](https://github.com/saminyasirkhan/-Proposed-Operating-System-for-AeroNav-Tech-ANT-) |
 
 
 
