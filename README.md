@@ -24,6 +24,23 @@ I have worked across research, consulting, and security environments, including 
 🤝 Feel free to connect if you would like to discuss ideas or opportunities.
 
 
+
+## 🔑 Key Skills
+
+- **Cyber Security & Defence:** Threat analysis, incident response, vulnerability assessment, network defence, system hardening  
+- **Offensive Security:** Buffer overflow exploitation, command injection, privilege escalation, reverse shells (GDB, Linux)  
+- **DevSecOps & Infrastructure:** Vagrant, Ansible, Docker, SSH tunnelling, secure provisioning, IaC exploitation  
+- **Network Engineering:** OSPF, VLANs, ACLs, Zone-Based Firewall (ZPF), DMZ design, traffic analysis (Cisco Packet Tracer)  
+- **Secure System Design:** STRIDE threat modelling, RBAC, authentication systems, defence-in-depth, secure architecture  
+- **Database Security:** PostgreSQL, RBAC, constraints, triggers, ACID compliance, secure configuration (SSL/TLS)  
+- **Risk & GRC:** ISO 27005, DREAD risk modelling, threat modelling, risk registers, mitigation strategies  
+- **Human-Centred Security:** Phishing analysis, cognitive biases, security usability, behavioural intervention design  
+- **Programming & Development:** Python, Flask, Tkinter, Pygame, REST APIs, authentication systems  
+- **Operating Systems:** Linux process lifecycle (fork/exec), memory management, privilege boundaries, RTOS concepts  
+- **Tools & Technologies:** Linux, Git, GDB, Wireshark, Docker, MySQL, PostgreSQL, Cisco Packet Tracer  
+- **Communication & Analysis:** Technical report writing, security research, case study analysis  
+
+
 ## 📁 Projects
 
 ## 🔐 Security Engineering
