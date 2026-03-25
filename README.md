@@ -23,8 +23,6 @@ I have worked across research, consulting, and security environments, including 
 
 🤝 Feel free to connect if you would like to discuss ideas or opportunities.
 
-
-
 ## 🔑 Key Skills
 
 - Cyber Security & Defence → Threat analysis, incident response, system hardening  
@@ -40,7 +38,31 @@ I have worked across research, consulting, and security environments, including 
 - Systems → Linux, process lifecycle, privilege boundaries  
 
 - Tools → Git, GDB, Wireshark, Docker, Cisco Packet Tracer  
-- Communication → Technical writing, security research, case analysis  
+- Communication → Technical writing, security research, case analysis
+  
+  
+
+ ## 📜 Certifications
+
+- TryHackMe – Cyber Security Paths (Top 2%)  
+  → Completed hands-on learning across:
+    • Security Engineer  
+    • Jr Penetration Tester  
+    • Web Fundamentals  
+    • DevSecOps  
+  → Covered SOC operations, exploitation, web security, and infrastructure security  
+  → Applied skills through real-world attack simulations and labs  
+
+  🔗 Certificates:
+  - Security Engineer: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0PNPKI2GIN.pdf  
+  - Jr Penetration Tester: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TOT8K0TQZJ.pdf  
+  - Web Fundamentals: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LIVL4CAQVK.pdf  
+  - DevSecOps: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FQ9B0NBKLK.pdf  
+
+> Currently progressing towards industry certifications:
+- CompTIA Security+ (In Progress)  
+- CompTIA Network+ (Planned)  
+  
 
 
 ## 📁 Projects
