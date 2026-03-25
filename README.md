@@ -27,18 +27,20 @@ I have worked across research, consulting, and security environments, including 
 
 ## 🔑 Key Skills
 
-- **Cyber Security & Defence:** Threat analysis, incident response, vulnerability assessment, network defence, system hardening  
-- **Offensive Security:** Buffer overflow exploitation, command injection, privilege escalation, reverse shells (GDB, Linux)  
-- **DevSecOps & Infrastructure:** Vagrant, Ansible, Docker, SSH tunnelling, secure provisioning, IaC exploitation  
-- **Network Engineering:** OSPF, VLANs, ACLs, Zone-Based Firewall (ZPF), DMZ design, traffic analysis (Cisco Packet Tracer)  
-- **Secure System Design:** STRIDE threat modelling, RBAC, authentication systems, defence-in-depth, secure architecture  
-- **Database Security:** PostgreSQL, RBAC, constraints, triggers, ACID compliance, secure configuration (SSL/TLS)  
-- **Risk & GRC:** ISO 27005, DREAD risk modelling, threat modelling, risk registers, mitigation strategies  
-- **Human-Centred Security:** Phishing analysis, cognitive biases, security usability, behavioural intervention design  
-- **Programming & Development:** Python, Flask, Tkinter, Pygame, REST APIs, authentication systems  
-- **Operating Systems:** Linux process lifecycle (fork/exec), memory management, privilege boundaries, RTOS concepts  
-- **Tools & Technologies:** Linux, Git, GDB, Wireshark, Docker, MySQL, PostgreSQL, Cisco Packet Tracer  
-- **Communication & Analysis:** Technical report writing, security research, case study analysis  
+- Cyber Security & Defence → Threat analysis, incident response, system hardening  
+- Offensive Security → Buffer overflow, privilege escalation, reverse shells  
+- Network Security → OSPF, VLANs, ACLs, firewalls, traffic analysis  
+
+- Infrastructure & DevSecOps → Docker, Ansible, Vagrant, SSH  
+- Database Security → PostgreSQL, RBAC, constraints, auditing  
+- Risk & GRC → ISO 27005, DREAD, threat modelling  
+
+- Human-Centred Security → Phishing analysis, cognitive biases, usability  
+- Programming → Python (Flask, APIs, authentication systems)  
+- Systems → Linux, process lifecycle, privilege boundaries  
+
+- Tools → Git, GDB, Wireshark, Docker, Cisco Packet Tracer  
+- Communication → Technical writing, security research, case analysis  
 
 
 ## 📁 Projects
