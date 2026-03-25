@@ -4,14 +4,8 @@
   <a href="https://www.linkedin.com/in/saminyasirkhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saminyasirkhan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://tryhackme.com/p/Yasir.Khan">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+    <img src="https://img.shields.io/badge/TryHackMe-Top%202%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
 </p>
 
