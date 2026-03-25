@@ -100,4 +100,5 @@ I have worked across research, consulting, and security environments, including 
 | Skill | Demonstrated In |
 |---|---|
 | Operating Systems & Process Analysis (Linux, fork/exec, memory) | [Linux Process Lifecycle Analysis](https://github.com/saminyasirkhan/Linux-OS-Command-Lifecycle-Case-Study) |
+| Programming Paradigms & Secure Development (OOP, EDP, FP) | [Secure Programming Paradigms Analysis](https://github.com/saminyasirkhan/Secure-Programming-Paradigms-Analysis) |
 | Operating System Design (RTOS Concepts) | [OS Proposition](https://github.com/saminyasirkhan/-Proposed-Operating-System-for-AeroNav-Tech-ANT-) |
