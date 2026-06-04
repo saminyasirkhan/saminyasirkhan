@@ -63,7 +63,15 @@ I have worked across research, consulting, and security environments, including 
 - CompTIA Security+ (In Progress)  
 - CompTIA Network+ (Planned)  
   
+## ⭐ Featured Projects
 
+| Domain | Project(s) | Key Technologies / Concepts |
+|----------|----------|----------|
+| 🌐 Network Security | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design) | OSPF, VLANs, ACLs, Zone-Based Firewall, Cisco Packet Tracer |
+| 🗄️ Database Security | [CampusAccess Database Security Redesign](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) | PostgreSQL, RBAC, Constraints, Auditing |
+| 🧠 Risk, Human Factors & GRC | [IIoT Risk Assessment](https://github.com/saminyasirkhan/IIoT-Risk-Assessment) • [Insider Threat Policy Framework](https://github.com/saminyasirkhan/Insider-Threat-Policy-Framework) • [Gmail Security Usability Analysis](https://github.com/saminyasirkhan/Human-Centred-Cyber-Security) | ISO 27005, DREAD, Insider Threat Mitigation, Security Usability, Cognitive Biases, Human-Centred Security |
+| 🔐 Cryptography & Secure Software Engineering | [Secure Role-Based Learning Platform](https://github.com/saminyasirkhan/Secure-Learning-Platform/tree/main) | AES-GCM, Ed25519, MFA, X25519, HMAC, RBAC |
+| 🚀 DevSecOps & Security Automation | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) | Snyk, OWASP ZAP, GitHub Actions, GitLab CI/CD |
 
 ## 📁 Projects
 
