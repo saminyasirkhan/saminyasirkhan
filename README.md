@@ -80,6 +80,7 @@ I have worked across research, consulting, and security environments, including 
 | DevSecOps & IaC Exploitation (Vagrant, Ansible, Docker, SSH) | [IaC Exploitation Challenge](https://github.com/saminyasirkhan/IaC-Challenge) |
 | Binary Exploitation (Buffer Overflow, GDB) | [Buffer Overflow Exploitation](https://github.com/saminyasirkhan/Buffer-Overflow) |
 | Secure System Design & Threat Modelling (STRIDE, RBAC, JWT, Secure Architecture) | [Secure Inventory Management System](https://github.com/saminyasirkhan/Secure-Inventory-Management-System) |
+| Applied Cryptography & Secure Software Engineering (AES-GCM, Ed25519, MFA, X25519, HMAC) | [Secure Role-Based Learning Platform](https://github.com/saminyasirkhan/Secure-Learning-Platform/blob/main/Secure%20Learning%20Platform.pdf) |
 
 ---
 
