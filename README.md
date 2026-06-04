@@ -72,6 +72,8 @@ I have worked across research, consulting, and security environments, including 
 | 🧠 Risk, Human Factors & GRC | [IIoT Risk Assessment](https://github.com/saminyasirkhan/IIoT-Risk-Assessment) • [Insider Threat Policy Framework](https://github.com/saminyasirkhan/Insider-Threat-Policy-Framework) • [Gmail Security Usability Analysis](https://github.com/saminyasirkhan/Human-Centred-Cyber-Security) | ISO 27005, DREAD, Insider Threat Mitigation, Security Usability, Cognitive Biases, Human-Centred Security |
 | 🔐 Cryptography & Secure Software Engineering | [Secure Role-Based Learning Platform](https://github.com/saminyasirkhan/Secure-Learning-Platform/tree/main) | AES-GCM, Ed25519, MFA, X25519, HMAC, RBAC |
 | 🚀 DevSecOps & Security Automation | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) | Snyk, OWASP ZAP, GitHub Actions, GitLab CI/CD |
+| 📚 Cyber Security Research (In Progress) | UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes) | CyBoK, Curriculum Analysis, Educational Research, Data Analysis, Higher Education Policy |
+
 
 ## 📁 Projects
 
