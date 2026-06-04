@@ -67,6 +67,19 @@ I have worked across research, consulting, and security environments, including 
 
 ## 📁 Projects
 
+## 🚀 DevSecOps & Security Automation
+
+### 🛠️ Projects
+- **DevSecOps Security Testing Pipeline**
+
+### 📊 Skills Demonstrated
+
+| Skill | Demonstrated In |
+|---|---|
+| SAST & DAST Security Testing (Snyk, OWASP ZAP) | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) |
+| CI/CD Security Automation (GitHub Actions, GitLab CI/CD) | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) |
+| Vulnerability Management & Secure SDLC | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) |
+
 ## 🔐 Security Engineering
 
 ### 🛠️ Projects
