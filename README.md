@@ -13,7 +13,7 @@
 
 I am a Cyber Security student at the University of Warwick, building hands-on experience across threat analysis, secure systems, and network defence.
  
-I have worked across research, consulting, and security environments, including roles with Aamazon, National Cyber Resiliance Centre, Cyber London, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
+I have worked across research, consulting, and security environments, including roles with Amazon, National Cyber Resiliance Centre, Cyber London, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
  
 
 
