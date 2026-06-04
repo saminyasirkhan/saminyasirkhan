@@ -110,7 +110,7 @@ I have worked across research, consulting, and security environments, including 
 | Skill | Demonstrated In |
 |---|---|
 | Risk Assessment & GRC (ISO 27005, DREAD) | [IIoT Risk Assessment](https://github.com/saminyasirkhan/IIoT-Risk-Assessment) |
-| Human-Centred Security & Phishing Analysis | [Behavioural Phishing Defence System](https://github.com/saminyasirkhan/Human-Centred-Cyber-Security) |
+| Insider Threat Policy Framework | [Insider Threat Policy Framework](https://github.com/saminyasirkhan/Insider-Threat-Policy-Framework) |
 | Security Usability Analysis (Gmail, Warning Design, Cognitive Load) | [Gmail Security Usability Analysis](https://github.com/saminyasirkhan/Human-Centred-Cyber-Security) |
 | Threat Analysis & Incident Investigation | [Cyber Threats to UK Institutions](https://github.com/saminyasirkhan/Cyber-Threats-to-UK-Institutions-Case-Studies-and-Countermeasures) |
 
