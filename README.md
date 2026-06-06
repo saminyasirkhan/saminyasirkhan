@@ -44,7 +44,7 @@ I have worked across research, consulting, and security environments, including 
 
  ## 📜 Certifications
 
-- TryHackMe – Cyber Security Paths (Top 2%)  
+- TryHackMe – Cyber Security Paths (Top 1%)  
   → Completed hands-on learning across:
     • Security Engineer  
     • Jr Penetration Tester  
