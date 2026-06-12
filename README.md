@@ -54,6 +54,7 @@ I have worked across research, consulting, and security environments, including 
   → Applied skills through real-world attack simulations and labs  
 
   🔗 Certificates:
+  
   -AI Security: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9GQZVUVIM.pdf
   - Security Engineer: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0PNPKI2GIN.pdf  
   - Jr Penetration Tester: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TOT8K0TQZJ.pdf  
