@@ -42,24 +42,28 @@ I have worked across research, consulting, and security environments, including 
   
   
 
- ## 📜 Certifications
+## 📜 Certifications
 
-- TryHackMe – Cyber Security Paths (Top 1%)  
-  → Completed hands-on learning across:
-    • Security Engineer  
-    • Jr Penetration Tester  
-    • Web Fundamentals  
-    • DevSecOps  
-  → Covered SOC operations, exploitation, web security, and infrastructure security  
-  → Applied skills through real-world attack simulations and labs  
+### TryHackMe Learning Paths (Top 1%)
 
-  🔗 Certificates:
-  
-  -AI Security: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-P9GQZVUVIM.pdf
-  - Security Engineer: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0PNPKI2GIN.pdf  
-  - Jr Penetration Tester: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TOT8K0TQZJ.pdf  
-  - Web Fundamentals: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LIVL4CAQVK.pdf  
-  - DevSecOps: https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FQ9B0NBKLK.pdf  
+Completed hands-on learning paths covering:
+
+- Security Engineering
+- AI Security
+- DevSecOps
+- Penetration Testing
+- Web Application Security
+
+**Key Areas Covered:**
+- SOC Operations & Threat Analysis
+- Network Security
+- Web Security
+- Offensive Security
+- DevSecOps & Secure CI/CD
+- AI Security Fundamentals
+
+🔗 **Certificate Portfolio:**  
+https://tryhackme.com/p/Yasir.Khan?tab=certificates
 
 > Currently progressing towards industry certifications:
 - CompTIA Security+ (In Progress)  
