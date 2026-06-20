@@ -80,6 +80,20 @@ https://tryhackme.com/p/Yasir.Khan?tab=certificates
 | 🚀 DevSecOps & Security Automation | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) | Snyk, OWASP ZAP, GitHub Actions, GitLab CI/CD |
 | 📚 Cyber Security Research (In Progress) | UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes) | CyBoK, Curriculum Analysis, Educational Research, Data Analysis, Higher Education Policy |
 
+---
+
+## 📚 Research Highlights
+
+### UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes)
+
+- Contributing to an ongoing research project under **Professor Harjinder Singh Lallie (University of Warwick)**.
+- Analysing **190 UK undergraduate and postgraduate Cyber Security programmes** against the **Cyber Security Body of Knowledge (CyBoK)**.
+- Conducting curriculum mapping, data collection, analysis, and evaluation of programme coverage across UK higher education.
+- Research abstract submitted for academic publication and conference presentation.
+
+🔗 **Conference Recognition:**  
+Professor Harjinder Singh Lallie highlighted the project following its conference presentation and acknowledged my contribution:
+https://www.linkedin.com/feed/update/urn:li:activity:7472540313434173441/
 
 ## 📁 Projects
 
