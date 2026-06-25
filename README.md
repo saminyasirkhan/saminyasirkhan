@@ -66,8 +66,10 @@ Completed hands-on learning paths covering:
 https://tryhackme.com/p/Yasir.Khan?tab=certificates
 
 > Currently progressing towards industry certifications:
-- CompTIA Security+ (In Progress)  
-- CompTIA Network+ (Planned)  
+- CompTIA Security+ (Planned to be completed by August 2026)  
+- CompTIA Network+ (Planned to be completed by July 2026)
+- AWS AI Practioner (Planned to be completed by July 2026)
+- AWS Solutions Architect Associate  (Planned to be completed by September 2026)
   
 ## ⭐ Featured Projects
 
