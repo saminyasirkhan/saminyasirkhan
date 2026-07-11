@@ -85,7 +85,7 @@ https://tryhackme.com/p/Yasir.Khan?tab=certificates
 
 ---
 
-## 📚 Research Highlights
+## 📚 Academic Research Highlights
 
 ### Retrieval-Augmented Generation for Cyber Security (Systematic Literature Review) - Supervised by [Dr. Hany F. Atlam](https://profiles.warwick.ac.uk/u2271520-hany-atlam), University of Warwick*
 
