@@ -80,13 +80,24 @@ https://tryhackme.com/p/Yasir.Khan?tab=certificates
 | 🧠 Risk, Human Factors & GRC | [IIoT Risk Assessment](https://github.com/saminyasirkhan/IIoT-Risk-Assessment) • [Insider Threat Policy Framework](https://github.com/saminyasirkhan/Insider-Threat-Policy-Framework) • [Gmail Security Usability Analysis](https://github.com/saminyasirkhan/Human-Centred-Cyber-Security) | ISO 27005, DREAD, Insider Threat Mitigation, Security Usability, Cognitive Biases, Human-Centred Security |
 | 🔐 Cryptography & Secure Software Engineering | [Secure Role-Based Learning Platform](https://github.com/saminyasirkhan/Secure-Learning-Platform/tree/main) | AES-GCM, Ed25519, MFA, X25519, HMAC, RBAC |
 | 🚀 DevSecOps & Security Automation | [DevSecOps Security Testing Pipeline](https://github.com/saminyasirkhan/DevSecOps-Security-Testing-Pipeline/tree/main) | Snyk, OWASP ZAP, GitHub Actions, GitLab CI/CD |
-| 📚 Cyber Security Research (In Progress) | UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes) | CyBoK, Curriculum Analysis, Educational Research, Data Analysis, Higher Education Policy |
+| 📚 Cyber Security Research (In Progress) | **Retrieval-Augmented Generation for Cyber Security (Systematic Literature Review)** • **UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes)** | Retrieval-Augmented Generation (RAG), LLMs, AI Security, PRISMA, Systematic Literature Review, CyBoK, Curriculum Analysis, Educational Research, Data Analysis |
+
 
 ---
 
 ## 📚 Research Highlights
 
-### UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes)
+### Retrieval-Augmented Generation for Cyber Security (Systematic Literature Review) - Supervised by [Dr. Hany F. Atlam](https://profiles.warwick.ac.uk/u2271520-hany-atlam), University of Warwick*
+
+- Conducting a **Systematic Literature Review (SLR)** under the supervision of **Dr. Hany F. Atlam (University of Warwick)**.
+- Investigating the application of **Retrieval-Augmented Generation (RAG)** across cybersecurity domains, including cyber threat intelligence, Security Operations Centres (SOCs), cyber defence, vulnerability management, and incident response.
+- Applying a **PRISMA-inspired review methodology** to identify, screen, deduplicate, and synthesise research from major academic databases, including **Google Scholar, IEEE Xplore, ACM Digital Library, SpringerLink, Elsevier ScienceDirect, and PubMed**.
+- Analysing research trends, system architectures, retrieval mechanisms, Large Language Models (LLMs), evaluation methodologies, and current challenges to provide a comprehensive overview of the state of the art.
+- Contributing towards an academic literature review intended to support future research into AI-driven cybersecurity systems.
+
+---
+
+### UK Cyber Security Curriculum Mapping (CyBoK-Based Analysis of 190 Programmes) - Supervised by [Professor Harjinder Singh Lallie](https://www.cs.ox.ac.uk/people/harjinder.lallie/), University of Oxford/Warwick*
 
 - Contributing to an ongoing research project under **Professor Harjinder Singh Lallie (University of Warwick)**.
 - Analysing **190 UK undergraduate and postgraduate Cyber Security programmes** against the **Cyber Security Body of Knowledge (CyBoK)**.
@@ -94,7 +105,7 @@ https://tryhackme.com/p/Yasir.Khan?tab=certificates
 - Research abstract submitted for academic publication and conference presentation.
 
 🔗 **Conference Recognition:**  
-Professor Harjinder Singh Lallie highlighted the project following its conference presentation and acknowledged my contribution:
+Professor Harjinder Singh Lallie highlighted the project following its conference presentation and acknowledged my contribution:  
 https://www.linkedin.com/feed/update/urn:li:activity:7472540313434173441/
 
 ## 📁 Projects
