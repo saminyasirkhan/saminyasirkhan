@@ -108,6 +108,7 @@ https://tryhackme.com/p/Yasir.Khan?tab=certificates
 Professor Harjinder Singh Lallie highlighted the project following its conference presentation and acknowledged my contribution:  
 https://www.linkedin.com/feed/update/urn:li:activity:7472540313434173441/
 
+Video Link: https://youtu.be/dFTkLNR1PWQ
 ## 📁 Projects
 
 ## 🚀 DevSecOps & Security Automation
