@@ -23,28 +23,25 @@ I have worked across research, consulting, and security environments, including 
 
 🤝 Feel free to connect if you would like to discuss ideas or opportunities.
 
-## 🔑 Key Skills
-
-- Cyber Security & Defence → Threat analysis, incident response, system hardening  
-- Offensive Security → Buffer overflow, privilege escalation, reverse shells  
-- Network Security → OSPF, VLANs, ACLs, firewalls, traffic analysis  
-
-- Infrastructure & DevSecOps → Docker, Ansible, Vagrant, SSH  
-- Database Security → PostgreSQL, RBAC, constraints, auditing  
-- Risk & GRC → ISO 27005, DREAD, threat modelling  
-
-- Human-Centred Security → Phishing analysis, cognitive biases, usability  
-- Programming → Python (Flask, APIs, authentication systems)  
-- Systems → Linux, process lifecycle, privilege boundaries  
-
-- Tools → Git, GDB, Wireshark, Docker, Cisco Packet Tracer  
-- Communication → Technical writing, security research, case analysis
-  
-  
-
 ## 📜 Certifications
 
-### TryHackMe Learning Paths (Top 1%)
+### 🏢 Industry Certifications
+
+| Certification | Status | Verification |
+|---------------|--------|--------------|
+| **AWS Certified AI Practitioner** | ✅ Earned (August 2026) | [Credly Badge](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86) |
+| **AWS Certified Solutions Architect – Associate** | 🎯 In Progress (Target: August 2026) | — |
+| **CompTIA Network+** | 🎯 Planned (Target: September 2026) | — |
+| **CompTIA Security+** | 🎯 Planned (Target: September 2026) | — |
+
+### AWS Certified AI Practitioner
+
+<p align="left">
+  <img src="images/aws-ai-practitioner.png" width="180">
+</p>
+---
+
+### 🎓 TryHackMe Learning Paths (Top 1%)
 
 Completed hands-on learning paths covering:
 
@@ -54,7 +51,7 @@ Completed hands-on learning paths covering:
 - Penetration Testing
 - Web Application Security
 
-**Key Areas Covered:**
+**Key Areas Covered**
 - SOC Operations & Threat Analysis
 - Network Security
 - Web Security
@@ -62,14 +59,8 @@ Completed hands-on learning paths covering:
 - DevSecOps & Secure CI/CD
 - AI Security Fundamentals
 
-🔗 **Certificate Portfolio:**  
+🔗 **Certificate Portfolio**  
 https://tryhackme.com/p/Yasir.Khan?tab=certificates
-
-> Currently progressing towards industry certifications:
-- CompTIA Security+ (Planned to be completed by August 2026)  
-- CompTIA Network+ (Planned to be completed by July 2026)
-- AWS AI Practioner (Planned to be completed by July 2026)
-- AWS Solutions Architect Associate  (Planned to be completed by September 2026)
   
 ## ⭐ Featured Projects
 
