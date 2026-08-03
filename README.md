@@ -15,11 +15,7 @@ I am a Cyber Security student at the University of Warwick, building hands-on ex
  
 I have worked across research, consulting, and security environments, including roles with Amazon, National Cyber Resiliance Centre, Cyber London, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
  
-
-
-🔐 **Interests:** Cybersecurity, Networking, SOC, IT Support, GRC  
-⚙️ **Current Focus:** Threat analysis, network security, Microsoft, Linux, Python, help desk operations  
-🎯 **Career Goals:** SOC Analyst, Network Engineer, Cloud Engineer, GRC Specialist
+🎯 **Interests & Career Goals:** Cloud Security, IAM, Security Engineering, Cybersecurity, Networking, SOC, GRC  
 
 🤝 Feel free to connect if you would like to discuss ideas or opportunities.
 
