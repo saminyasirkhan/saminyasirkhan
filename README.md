@@ -11,9 +11,9 @@
 
 ## Objective
 
-I am a Cyber Security student at the University of Warwick, building hands-on experience across threat analysis, secure systems, and network defence.
- 
-I have worked across research, consulting, and security environments, including roles with Amazon, National Cyber Resiliance Centre, Cyber London, WMG, and Parisi. These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design.
+I am a Cyber Security student at the [University of Warwick](https://warwick.ac.uk/study/undergraduate/courses/bsc-cyber-security/), building hands-on experience across threat analysis, secure systems, and network defence.
+
+I have worked across research, consulting, and security environments, including roles with [Amazon](https://www.amazon.jobs/en-gb), the [National Cyber Resilience Centre](https://www.wmcrc.co.uk/), [Cyber London](https://cyberlondon.com/), [WMG](https://warwick.ac.uk/fac/sci/wmg/research/), and [Parisi](https://www.helloparisi.com/). These experiences have allowed me to apply security concepts in real-world contexts, from analysing risks to supporting secure system design. 
  
 🎯 **Interests & Career Goals:** Cloud Security, IAM, Security Engineering, Cybersecurity, Networking, SOC, GRC  
 
