@@ -35,7 +35,6 @@ I have worked across research, consulting, and security environments, including 
 <p align="left">
   <img src="images/aws-ai-practitioner.png" width="180">
 </p>
----
 
 ### 🎓 TryHackMe Learning Paths (Top 1%)
 
