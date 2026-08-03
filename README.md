@@ -25,15 +25,20 @@ I have worked across research, consulting, and security environments, including 
 
 | Certification | Status | Verification |
 |---------------|--------|--------------|
-| **AWS Certified AI Practitioner** | ✅ Earned (August 2026) | [Credly Badge](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86) |
+| **[AWS Certified AI Practitioner](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86)** | ✅ Earned (August 2026) | [Credly Badge](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86) |
 | **AWS Certified Solutions Architect – Associate** | 🎯 In Progress (Target: August 2026) | — |
 | **CompTIA Network+** | 🎯 Planned (Target: September 2026) | — |
 | **CompTIA Security+** | 🎯 Planned (Target: September 2026) | — |
 
-### AWS Certified AI Practitioner
+### [AWS Certified AI Practitioner](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86)
 
 <p align="left">
-  <img src="images/certifications/aws-certified-ai-practitioner.png" width="180">
+  <a href="https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86">
+    <img
+      src="images/certifications/aws-certified-ai-practitioner.png"
+      width="180"
+      alt="AWS Certified AI Practitioner Badge">
+  </a>
 </p>
 
 ### 🎓 TryHackMe Learning Paths (Top 1%)
