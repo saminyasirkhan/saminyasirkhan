@@ -81,10 +81,11 @@ https://tryhackme.com/p/Yasir.Khan?tab=certificates
 ### Retrieval-Augmented Generation for Cyber Security (Systematic Literature Review) - Supervised by [Dr. Hany F. Atlam](https://profiles.warwick.ac.uk/u2271520-hany-atlam), University of Warwick*
 
 - Conducting a **Systematic Literature Review (SLR)** under the supervision of **Dr. Hany F. Atlam (University of Warwick)**.
-- Investigating the application of **Retrieval-Augmented Generation (RAG)** across cybersecurity domains, including cyber threat intelligence, Security Operations Centres (SOCs), cyber defence, vulnerability management, and incident response.
+- Reviewed, analysed, and synthesised findings from **93+ peer-reviewed cybersecurity and AI research papers**, investigating the application of **Retrieval-Augmented Generation (RAG)** across cybersecurity domains.
+- Examining RAG applications across **Cyber Threat Intelligence (CTI), Security Operations Centres (SOCs), cyber defence, vulnerability management, and incident response**.
 - Applying a **PRISMA-inspired review methodology** to identify, screen, deduplicate, and synthesise research from major academic databases, including **Google Scholar, IEEE Xplore, ACM Digital Library, SpringerLink, Elsevier ScienceDirect, and PubMed**.
-- Analysing research trends, system architectures, retrieval mechanisms, Large Language Models (LLMs), evaluation methodologies, and current challenges to provide a comprehensive overview of the state of the art.
-- Contributing towards an academic literature review intended to support future research into AI-driven cybersecurity systems.
+- Analysing **RAG system architectures, retrieval mechanisms, Large Language Models (LLMs), datasets, evaluation methodologies, research trends, and current challenges** across existing cybersecurity implementations.
+- Contributing towards an **academic literature review** aimed at identifying the current state of the art, research limitations, and future opportunities for **AI-driven cybersecurity systems**.
 
 ---
 
