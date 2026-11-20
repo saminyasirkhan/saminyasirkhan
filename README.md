@@ -148,13 +148,6 @@ Video Link: https://youtu.be/dFTkLNR1PWQ
 
 ### 🛠️ Projects
 - **Network Security Monitoring & Incident Response**
-- **Surgical Robotics Digital Forensics & SOP**
-
-
-## 🔎 Security Operations & Digital Forensics
-
-### 🛠️ Projects
-- **Network Security Monitoring & Incident Response**
 - **Surgical Robotics Digital Forensics & Incident Response**
 
 ### 📊 Skills Demonstrated
