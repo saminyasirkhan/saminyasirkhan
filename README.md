@@ -150,11 +150,18 @@ Video Link: https://youtu.be/dFTkLNR1PWQ
 - **Network Security Monitoring & Incident Response**
 - **Surgical Robotics Digital Forensics & SOP**
 
+
+## 🔎 Security Operations & Digital Forensics
+
+### 🛠️ Projects
+- **Network Security Monitoring & Incident Response**
+- **Surgical Robotics Digital Forensics & Incident Response**
+
 ### 📊 Skills Demonstrated
 | Skill | Demonstrated In |
 |---|---|
-| Network Security Monitoring & SOC Operations (Suricata, Zeek, NetFlow/IPFIX, SIEM, EDR) | Network Security Monitoring & Incident Response |
-| Digital Forensics & Incident Management (NIST SP 800-61, ACPO Principles, Chain of Custody, Evidence Acquisition) | Surgical Robotics Digital Forensics & SOP |
+| Network Security Monitoring & SOC Operations (Suricata, Zeek, NetFlow/IPFIX, SIEM, EDR) | [Network Security Monitoring & Incident Response](https://github.com/saminyasirkhan/Network-Security-Monitoring-and-Incident-Response) |
+| Digital Forensics & Incident Management (NIST SP 800-61, ACPO Principles, Chain of Custody, Evidence Acquisition) | [Surgical Robotics Digital Forensics & Incident Response](https://github.com/saminyasirkhan/Surgical-Robotics-Digital-Forensics-and-Incident-Response) |
 
 ---
 
