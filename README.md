@@ -27,8 +27,8 @@ I have worked across research, consulting, and security environments, including 
 |---------------|--------|--------------|
 | **[AWS Certified AI Practitioner](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86)** | ✅ Earned (August 2026) | [Credly Badge](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86) |
 | **AWS Certified Solutions Architect – Associate** | 🎯 In Progress (Target: November 2026) | — |
-| **CompTIA Network+** | 🎯 Planned (Target: November 2026) | — |
-| **CompTIA Security+** | 🎯 Planned (Target: December 2026) | — |
+| **CompTIA Network+** | 🎯 Planned (Target: January 2027) | — |
+| **CompTIA Security+** | 🎯 Planned (Target: January 2027) | — |
 
 ### [AWS Certified AI Practitioner](https://www.credly.com/earner/earned/badge/4ffd145b-7756-4b48-abf6-6048730a7b86)
 
@@ -141,6 +141,20 @@ Video Link: https://youtu.be/dFTkLNR1PWQ
 | Network Configuration (Cisco Packet Tracer, OSPF, VLANs, ACLs, ZPF) | [Secure Network Design](https://github.com/saminyasirkhan/Secure-Network-Design) |
 | Database Security Engineering (PostgreSQL, RBAC, Constraints, Auditing) | [CampusAccess Database Security Redesign](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
 | Relational Database Design (ACID, 3NF, Transactions, Secure Configuration) | [Secure E-Commerce Database System](https://github.com/saminyasirkhan/CampusAccess-E-Commerce-Database-Systems) |
+
+---
+
+## 🔎 Security Operations & Digital Forensics
+
+### 🛠️ Projects
+- **Network Security Monitoring & Incident Response**
+- **Surgical Robotics Digital Forensics & SOP**
+
+### 📊 Skills Demonstrated
+| Skill | Demonstrated In |
+|---|---|
+| Network Security Monitoring & SOC Operations (Suricata, Zeek, NetFlow/IPFIX, SIEM, EDR) | Network Security Monitoring & Incident Response |
+| Digital Forensics & Incident Management (NIST SP 800-61, ACPO Principles, Chain of Custody, Evidence Acquisition) | Surgical Robotics Digital Forensics & SOP |
 
 ---
 
