@@ -207,4 +207,3 @@ Video Link: https://youtu.be/dFTkLNR1PWQ
 
 ---
 
-**Resource note:** "Free Full Textbook" identifies a legally accessible online edition. Other links lead to official companion materials, tutorials, exercises, or free alternatives rather than the complete commercial book.
